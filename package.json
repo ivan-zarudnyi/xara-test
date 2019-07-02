@@ -1,0 +1,8 @@
+{
+  "name": "xara-test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "latest"
+  }
+}
